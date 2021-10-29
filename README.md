@@ -1,4 +1,5 @@
-Study computer science💻 /n
+Study computer science💻
+
 Just learning Java right now🏝️
 
 <!---
