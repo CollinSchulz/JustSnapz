@@ -1,6 +1,6 @@
-Study computer science💻
+Computer scientist at DEVK💻
 
-Just learning Java right now🏝️
+Study computer science🏝
 
 <!---
 JustSnapz/JustSnapz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
